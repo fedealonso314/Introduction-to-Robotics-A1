@@ -1,5 +1,5 @@
 # Introduction-to-Robotics-A1
-<h1 align="center">Final Project: RRR Book Sorting Robot</h1>
+<h1 align="center">Final Project: PRRR Book Sorting Robot</h1>
 <h3 align="center">Team A-1</h3>
 
 - 🦾 [Robot Design And CAD files]
