@@ -47,7 +47,8 @@ https://github.com/user-attachments/assets/bd62f1d7-5ece-4976-8559-3ee657089743
 <summary> Kinematic structure
 </summary>
   
-  ![Image](https://github.com/user-attachments/assets/109a35ed-39ab-426a-8f42-e1c17bd30de1)
+![Image](https://github.com/user-attachments/assets/f3ffcd3b-bbe3-410e-b6ea-4534434cfd2e)
+![Image](https://github.com/user-attachments/assets/5c224724-d672-4bf2-9b9a-5d32849154f2)
 
 </details>
 
