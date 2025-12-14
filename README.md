@@ -16,7 +16,6 @@
 
 https://github.com/user-attachments/assets/466b8830-91f7-4014-bd22-bce9394509c4
 
-https://github.com/user-attachments/assets/0b08ce72-e509-4a36-8629-4c3a73730fc9
 
 %%          BASIC SIMULATION 
 
@@ -115,6 +114,8 @@ figure;
 bobot.plot(q_traj, 'workspace', [-20 20 -20 20 -10 20], 'delay', 0.00000001);   % <-- makes animation as fast as possible
 
 bobot.plot(q_traj2, 'workspace', [-20 20 -20 20 -10 20], 'delay', 0.00000001);
+
+https://github.com/user-attachments/assets/0b08ce72-e509-4a36-8629-4c3a73730fc9
 </details>
 
 <details>
