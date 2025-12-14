@@ -25,6 +25,9 @@ The key tasks focus entirely on correcting physical placement errors:
 
 </summary>
 
+### [Inverse Kinematic Equations](InverseKinematicEquations.pdf)
+
+
 ### [Basic Simulation](BasicSimulation.m)
 https://github.com/user-attachments/assets/466b8830-91f7-4014-bd22-bce9394509c4
 
