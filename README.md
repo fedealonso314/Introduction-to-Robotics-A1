@@ -31,10 +31,9 @@ https://github.com/user-attachments/assets/8124c6ec-9741-4fe5-b38d-1bcb0609853d
 <summary> Mathematical Models
 </summary>
   
-#### DH-Parameters
-  
-#### Jacobian
-</details>
+#### Kinnematic analysis and DH parameters table
+
+  ![Image](https://github.com/user-attachments/assets/109a35ed-39ab-426a-8f42-e1c17bd30de1)
 
 </details>
 
