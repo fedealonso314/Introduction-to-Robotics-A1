@@ -39,6 +39,8 @@ https://github.com/user-attachments/assets/0b08ce72-e509-4a36-8629-4c3a73730fc9
 ### [Trajectory Analysis](pathtrajectory.m)
 https://github.com/user-attachments/assets/8124c6ec-9741-4fe5-b38d-1bcb0609853d
 
+### simulation with simscape
+https://github.com/user-attachments/assets/bd62f1d7-5ece-4976-8559-3ee657089743
 </details>
 
 <details>
