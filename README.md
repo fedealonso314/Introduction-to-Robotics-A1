@@ -22,7 +22,9 @@
 <summary> Simulations
 
 </summary>
-https://github.com/fedealonso314/Introduction-to-Robotics-A1/blob/main/SIM1.mp4
+
+https://github.com/user-attachments/assets/82adb58c-7f79-481d-a391-9350317fb387
+
 </details>
 
 <details>
