@@ -19,10 +19,10 @@
 
 
 <details>
-<summary> CAD Models
+<summary> Simulations
 
 </summary>
-
+https://github.com/fedealonso314/Introduction-to-Robotics-A1/blob/main/SIM1.mp4
 </details>
 
 <details>
