@@ -22,7 +22,8 @@ https://github.com/user-attachments/assets/466b8830-91f7-4014-bd22-bce9394509c4
 
 https://github.com/user-attachments/assets/0b08ce72-e509-4a36-8629-4c3a73730fc9
 
-
+### [Path Trajectory](pathtrajectory.m)
+https://github.com/user-attachments/assets/8124c6ec-9741-4fe5-b38d-1bcb0609853d
 
 </details>
 
@@ -50,7 +51,7 @@ https://github.com/user-attachments/assets/0b08ce72-e509-4a36-8629-4c3a73730fc9
 
 </summary>
 
-🤖 Federico Alonsexo
+🤖 Federico Alonso
 
 👩‍🔧 Giovana Bogado
 
