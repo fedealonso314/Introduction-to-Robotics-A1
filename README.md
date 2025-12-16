@@ -25,7 +25,8 @@ The key tasks focus entirely on correcting physical placement errors:
 
 </summary>
 
-### [Trajectory Generation](https://github.com/user-attachments/files/24179899/Trajectory.Generation.pdf)
+### [Trajectory Generation](TrajectoryGeneration.pdf)
+
 
 ### [Inverse Kinematic Equations](InverseKinematicEquations.pdf)
 
